@@ -1,2 +1,2 @@
 # moogleapi-images
-Repository for the images used in Moogle
+Repository for the images used in MoogleApi
